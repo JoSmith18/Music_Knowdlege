@@ -1,15 +1,17 @@
-import core 
+import core
+
+
 def au_inventory():
+    title = []
     with open('auction_inventory.txt', 'r') as file:
         file.readline()
-        items = file.readlines()
-    items = map(lambda i: str(i.split(' | ')), items)
-    items = list(map(
-        lambda l: {
-            'Category': l[0],
-            'Name': (l[1]),
-            'Items':list(map(lambda s: s.strip(), l[2])),
-            },
-        items))
-    return [ core.Items(items['Category'] )
-    print(i
+        lines = file.readlines()
+
+    data = map(lambda i: i.split('|'), lines)
+    data = [[a.strip(), b.strip(), c.strip()] for a, b, c in data]
+    inventory = {i[1].strip(): {} for i in data}
+
+    for name, item_type, items in data:
+        inventory[item_type.strip()][name] = list(
+            map(lambda s: s.strip(), items.split(',')))
+    return inventory

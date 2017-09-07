@@ -1,2 +1,19 @@
-Category | Name | Items
-Computers | HP | HP Stream, HP Chromebook,  HP Spectre, HP OMEN, HP Envy
+Name | Item Type | Items
+HP-Computers | Computer | HP Stream, HP Chromebook,  HP Spectre, HP OMEN, HP Envy
+Dell-Computers | Computer | Dell XPS 13, Dell Inspiron 15, Dell Inspiron 7000,
+Apple-Computers | Computer | MacBook, MacBook Air, MacBook Pro, iMac
+ASUS-Computers | Computer | Asus VivoBook, Asus Celeron, Asus Zenbook
+Samsung-Phones | Phones | Samsung Galaxy Note8, Samsung Galaxy J3, Samsung Galaxy Edge
+Apple-Phones | Phones | iPhone 8, iPhone 7+, iPhone 7, iPhone 6s
+LG-Phones | Phones | LG Aristo, LG Tribute, LG Stylo, LG V20
+HTC-Phones | Phones | HTC Vive, HTC U11, HTC 10, HTC one m8
+Playstation | Game-Console | Playstation Vita, Playstation 4, Playstation 3, Playstation 2
+Nintendo | Game-Console | Nintendo Switch, Nintendo 3DS, Nintendo Wii, Nintendo GameCube
+Xbox | Game-Console | Xbox One, Xbox Kinect, Xbox 360, Xbox
+Jordan-Shoes | Shoes | Air Jordan 1 Retro, Jordan Ultra Fly,Jordan Trunner LX, Jordan Flight Origin
+New-Balance-Shoes | Shoes | Blue New Balance 574, Burgundy New Balance 501, New Balance Fresh Foam
+Adidas-Shoes | Shoes | Adidas Journeys, Adidas Boost, Adidas Superstar
+Under Armour Shoes | Shoes | Under Armour Engage, Under Armour Charged, Under Armour Commits
+Cars | Vehicles | 2017 Nissian Altima, 2017 Nissian Maxima, 2017 Honda Civic, 2017 Honda Accord
+Trucks | Vehicles | 2017 Ford F-150, 2017 RAM 1500, 2017 GMC Sierra 1500, 2017 Chevrolet Colorado
+SUVs | Vehicles | 2017 Ford Escape, 2017 Ford Explorer, 2017 Ford Edge, 2017 Honda CR-V
