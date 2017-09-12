@@ -1,0 +1,13 @@
+Genre- Actor- Movies
+Action- Samuel L Jackson- Snakes on a Plane, Die Hard with a Vengence, No Good Deed, Pulp Fiction
+Action- Robert De Niro- Heat, The Family, The Untouchables, Heist
+Action- Robert Downey- Iron Man, Sherlock Holmes, Tropic Thunder, Danger Zone
+Action- Dwayne Johnson- The Scorpion King, San Andreas, Walking Tall, Get Smart
+Comedies- Will Ferrel- Step Brothers, Talladega Nights, Anchorman, Elf
+Comedies- Eddie Murphy- Coming to America, Norbit, Beverly Hills Cop, The Nutty Professor
+Comedies- Ice Cube- Barbershop, Friday, Ride Along, First Sunday
+Comedies- Jonah Hill- Superbad, 21 Jump Street, The Sitter, Get Him to the Greek
+Drama- Denzel Washington- Fences, Training Day, Inside Man, Remember the Titans
+Drama- Morgan Freeman- The Shawshank Redemption, Driving Miss Daisy, Lean on Me, The Bucket List
+Drama- Leonardo DiCaprio- Titanic, The Wolf Of Wall Street, The Great Gatsby, Inception
+Drama- Tom Hanks- Forrest Gump, Cast Away, Saving Private Ryan, The Green Mile
