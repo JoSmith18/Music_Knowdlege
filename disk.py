@@ -1,35 +1,12 @@
 import core
 
 
-def au_inventory():
-    title = []
-    with open('auction_inventory.txt', 'r') as file:
+def unlock_music(musicworld):
+    with open('music.txt', 'r') as file:
         file.readline()
-        lines = file.readlines()
+        artist_info = file.readlines()
 
-    data = map(lambda i: i.split('|'), lines)
-    data = [[a.strip(), b.strip(), c.strip()] for a, b, c in data]
-    inventory = {i[1].strip(): {} for i in data}
-
-    for name, item_type, items in data:
-        inventory[item_type.strip()][name] = list(
-            map(lambda s: s.strip(), items.split(',')))
-    return inventory
-
-
-def add_users(name, password, email):
-    with open('user.txt', 'a') as file:
-        file.write('{} - {} - {}'.format(name, password, email))
-
-
-def saved_users():
-    names = []
-    password = []
-    with open('user.txt', 'r') as file:
-        file.readline()
-        lines = file.readlines()
-    for info in lines:
-        info.split('- ')
-        names.append(info[0].strip())
-        password.append(info[1].strip())
-    return names, password
+    artist_info = list(map(lambda i: i.split('-'), artist_info))
+    for genre, artist, songs in artist_info:
+        songs = songs.strip().split(', ')
+        musicworld.add_artist(genre.strip(), artist.strip(), songs)
