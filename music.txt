@@ -1,0 +1,21 @@
+Genre- Artist- Songs
+Rap- 2Pac- Dear Momma, Keep Your Head Up, Hail Mary, California Love
+Rap- Drake- One Dance, Trust Issues, Fake Love, Hotline Bling, Forever, Started From The Bottom
+Rap- Future- Mask Off, March Madness, Deeper Than The Ocean, Rider, Itchin, Draco
+Rap- J Cole- Nobodys Perfect, Change, Lost Ones, Sideline Story, No Role Modelz, Before Im Gone
+Pop- Bruno Mars- Uptown Funk, Locked Out Of Heaven, When I Was Your Man, That's What I Like
+Pop- Ed Sheeran- Thinking Out Loud, Shape Of You, Perfect, Photograph
+Pop- Shawn Mendes- Mercy, Treat You Better, Stitches, Show You
+Pop- Julia Michaels- Issues, Uh Huh
+Country- Sam Hunt- Body Like A Back Road, Break Up In A Small Town, House Party
+Country- Carrie Underwood- Before He Cheats, Dirty Laundry, Just A Dream, Blown Away
+Country- Little Big Town- Better Man, Girl Crush, Pontoon, Your Side Of The Bed
+Country- Keith Urban- Tonight I Wanna Cry, Somebody Like You, You'll Think Of Me
+Indie- The National- Guilty Party, Slow Show, Looking for Astronauts
+Indie- Beach House- Take Care, Lazuli, Zebra, Myth
+Indie- Ryan Adams- Come Pick Me Up, I See Monsters, Dear Chicago, La Ciegna Just Smiled
+Indie- Arcade Fire- Creature Comfort, The Suburbs, Everything Now, Wake Up
+Blues- Robert Johnson- Cross Road Blues, Come on in My Kitchen, I'll Dust My Broom, Sweet Home Chicago
+Blues- BB King- The Thrill is Gone, Riding with the King, Ten Long Years, Key to the Highway
+Blues- Taj Mahal- Fishing Song, Dust my Broom, Queen Bee, Duck Diving Blues
+Blues- Sonny Boy Williamson- Baby Let Me Come Back Home, November Boogie, All Nite Boogie, Leavin Blues
